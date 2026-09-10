@@ -1,0 +1,19 @@
+# Dependencies
+node_modules/
+.cache/
+
+# Environment secrets — NEVER commit these
+.env
+*.env.local
+
+# Build outputs
+dist/
+build/
+
+# Logs
+*.log
+npm-debug.log*
+
+# OS
+.DS_Store
+Thumbs.db
