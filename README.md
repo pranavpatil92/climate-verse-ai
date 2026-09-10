@@ -14,8 +14,8 @@ The proposed platform combines:
 - An interactive climate decision dashboard
 
 The goal is to transform climate prediction into practical, evidence-based climate decisions.
-
----
+#### LIVE PREVIEW LINK ####
+https://maintainxx-app.vercel.app
 
 ## 🎯 Problem Statement
 
